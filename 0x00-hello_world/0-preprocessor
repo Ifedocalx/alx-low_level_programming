@@ -1,3 +1,4 @@
 #!/bin/bash
-gcc $FILE -E -o c
+gcc -E $CFILE -o c
+
 
