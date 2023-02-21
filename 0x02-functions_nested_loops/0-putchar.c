@@ -1,19 +1,19 @@
 #include "main.h"
 /**
  *main - print _putchar
-*is written by love
-*Return:0
+ *is written by love
+ *Return:0
 */
-int main(void)
+int min(void)
 {
-_putchar('_');
-_putchar('p');
-_putchar('u');
-_putchar('t');
-_putchar('c');
-_putchar('h');
-_putchar('a');
-_putchar('r');
-_putchar('\n');
+_putchar ('_');
+_putchar ('p');
+_putchar ('u');
+_putchar ('t');
+_putchar ('c');
+_putchar ('h');
+_putchar ('a');
+_putchar ('r');
+_putchar ('\n');
 return (0);
 }
