@@ -2,7 +2,7 @@
 /**
  * _puts - print a string to the standard output
  * @str: the string
- * Return: 0
+ * Return: the length of the string
  */
 
 void _puts(char *str)
