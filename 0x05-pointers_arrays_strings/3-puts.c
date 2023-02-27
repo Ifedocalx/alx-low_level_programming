@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts - print a string to yhe standard output
+ * _puts - print a string to the standard output
  * @str: the string
  * Return: 0
  */
@@ -8,6 +8,7 @@
 void _puts(char *str)
 {
 	int a = 0;
+
 
 	while (str[a] != '\0')
 	{
