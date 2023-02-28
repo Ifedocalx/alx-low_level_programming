@@ -25,7 +25,7 @@ void puts2(char *str)
 
 	t = longi - 1;
 
-	for (o = 0; o <= t; 0++)
+	for (o = 0 ; o <= t ; 0++)
 	{
 		if (o % 2 == 0)
 
