@@ -14,7 +14,7 @@ void puts2(char *str)
 
 	char *y = str;
 
-	int 0;
+	int o;
 
 
 	while (*y != '\0')
